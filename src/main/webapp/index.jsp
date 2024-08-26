@@ -16,5 +16,8 @@
 <h1 style="font-weight: bold; color: orange; font-size: 30px; text-align: center;">
     Automation is Working through Webhooks
 </h1>
+<h1 style="font-weight: bold; color: black; font-size: 30px; text-align: center;">
+    Automation is Working through Webhooks
+</h1>
 </body>
 </html>
